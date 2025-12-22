@@ -11,7 +11,7 @@ This study introduces a high-fidelity framework for the design optimization of F
 ## 📊 Status
 * **Current Status:** Under Review
 * **Journal:** *Energy* (Elsevier)
-* **Lead Author:** Nazmus Sakib
+* **Lead Author:** Nazmush Sakib
 
 ## 📂 Repository Contents
 Due to the manuscript being currently **under review**, the source code and full dataset are currently restricted. They will be made public upon the formal publication of the article.
